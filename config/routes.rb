@@ -13,4 +13,7 @@ Rails.application.routes.draw do
   # fixing confilict after changing homepage to root
   get 'about', to: 'welcome#about'
 
+# route to create, delete, view, update article
+  resources :articles
+
 end

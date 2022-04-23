@@ -17,6 +17,10 @@ cat ~/.ssh/id_rsa.pub
 $ rails g migration create_articles
 
 
+############ Create a new ROUTE ###########
+
+
+
 ############ CRUD ###########
 
 # Create entires in database table
@@ -51,3 +55,6 @@ create ModelName < ActiveRecord::Base
 
 end
 
+
+############ Creating forms in Rails ###########
+help guide >>>> guides.rubyonrails.org/form_helpers.html
