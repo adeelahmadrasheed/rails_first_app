@@ -1,5 +1,11 @@
 
 ### PROJECT NOTES ###
+Usefull links
+https://www.tutorialspoint.com/ruby-on-rails/
+https://hackernoon.com/ruby-on-rails-command-line-rails-scaffolding-tutorial-8312j3yhu
+
+
+
 
 Create routes
 

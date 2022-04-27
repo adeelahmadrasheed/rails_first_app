@@ -18,5 +18,7 @@ Rails.application.routes.draw do
 # route to create, delete, view, update article
   resources :articles
 
+  resources :blog_posts
+
 
 end

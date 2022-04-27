@@ -1,0 +1,18 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.main-navigation{
+background-color: black;
+border: 2px solid black;
+border-radius: 5px;
+font-weight: bold;
+}
+
+.main-navigation a:hover{
+color: black;
+font-weight: bold;
+}
+
+.btn-primary{
+color: #ffffff !important;
+}
