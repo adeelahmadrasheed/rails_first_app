@@ -17,9 +17,13 @@
   <body>
 
     <%= render 'layouts/navigation' %>
+
     <div class="container-fluid">
-      <%= yield %>
+      <div class="prefix" style="min-height: 500px">
+        <%= yield %>
+      </div>
     </div>
+      <%= render 'layouts/footer' %>
 
         
   </body>
